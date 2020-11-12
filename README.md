@@ -1,5 +1,5 @@
 # Lista de Exercícios - Funções e Procedimentos
-Considere o banco de dados ​ EquipeBD ​ abaixo para responder às questões:
+Considere o banco de dados *EquipeBD* abaixo para responder às questões:
 
 Funcionario (*codigo*, nome, sexo, dataNasc, salario, **supervisor**, **depto**)
 
@@ -9,7 +9,7 @@ Equipe (*codigo*, nomeEquipe)
 
 Membro (*codigo*, **codEquipe**, **codFuncionario**)
 
-Projeto (*codigo**, descricao, **depto**, **responsavel**, dataInicio, dataFim, situacao, dataConclusao, **equipe**)
+Projeto (*codigo*, descricao, **depto**, **responsavel**, dataInicio, dataFim, situacao, dataConclusao, **equipe**)
 
 Atividade (*codigo*, descricao, dataInicio, dataFim, situacao, dataConclusao)
 
